@@ -1,0 +1,17 @@
+{
+  "projectId": "72610406",
+  "functions": {
+    "create-hr-user": {
+      "hasChanged": false,
+      "hash": "a6b0890c6f64fcf79c05fae98b80896b100e80dc412d7b579fab033f8acbdff1"
+    },
+    "register-employee": {
+      "hasChanged": false,
+      "hash": "45f53fe2d72ca7326a7147890a9c73749bfb7aca810e4ecbe1f10292194824a3"
+    },
+    "review-employee-registration": {
+      "hasChanged": false,
+      "hash": "683cca0526c3ae04ccda3a356cc5b11987f58356be0880c0e30392236413d291"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+[functions.register-employee]
+verify_jwt = false
+
+[functions.review-employee-registration]
+verify_jwt = true
+
+[functions.create-hr-user]
+verify_jwt = true
